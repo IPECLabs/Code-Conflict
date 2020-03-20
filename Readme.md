@@ -14,7 +14,7 @@ Making a game that will help you understand code conflict.
 * Do not add any random line or any random print statements like `print('hello world')` etc
 * Cannot make any changes to the previously written lines.
 * Make sure you watch the repository for changes.
-* Person who misses his turn will have to give party to all the other members, doesn't have to be a grand one.
+* __Person who misses his turn will have to give party to all the other members, doesn't have to be a grand one.__
 * All the code added must abide with PEP8 rules.
 
 
@@ -26,3 +26,4 @@ Making a game that will help you understand code conflict.
 * Nitish(@nitish81299)
 * Anas(@ZnS_20)
 
+One person will have to commit under the time limit of 3 hours i.e once @mzfr makes his commit @Ashish_012 will have 3 hours to commit his work else it will be PARTY TIME for others.
