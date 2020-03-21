@@ -4,9 +4,12 @@ import sys
 import requests
 from bs4 import BeautifulSoup
 
+page = requests.get(URL)
+
 
 def parse_page(*args, **kwargs):
-    with open(file, 'r') as f: pass
+    with open(file, 'r') as f:
+        pass
 
 
 def sidhu_moosewala_songs(): pass
