@@ -5,7 +5,8 @@ import requests
 from bs4 import BeautifulSoup
 
 
-def parse_page(*args, **kwargs): pass
+def parse_page(*args, **kwargs):
+    with open(file, 'r') as f: pass
 
 
 def sidhu_moosewala_songs(): pass
